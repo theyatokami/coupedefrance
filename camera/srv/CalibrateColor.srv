@@ -1,0 +1,8 @@
+# Request
+---
+# Response
+float64 min_hue
+float64 max_hue
+
+bool success
+
